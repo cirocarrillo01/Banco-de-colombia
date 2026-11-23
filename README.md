@@ -118,7 +118,7 @@ Simulacion_Colas_Banco_Colombia/
 
 ### Google Colab
 
-1. Abrir el notebook (Simulacion_Colas_Banco_Colombia.ipynb)[https://colab.research.google.com/drive/1HWLsxN3nu6p0lcWNQWgb9N4CzHEd3wu9] en Google Colab.
+1. Abrir el notebook [Simulacion_Colas_Banco_Colombia.ipynb](https://colab.research.google.com/drive/1HWLsxN3nu6p0lcWNQWgb9N4CzHEd3wu9) en Google Colab.
 2. Seleccionar **Entorno de ejecución → Ejecutar todo**.
 3. Revisar las tablas estadísticas generadas en cada sección y las gráficas exportadas en la carpeta `figuras/`.
 
@@ -161,10 +161,10 @@ Simulacion_Colas_Banco_Colombia/
 
 | Recurso               | Enlace                                                                              |
 | :-------------------- | :---------------------------------------------------------------------------------- |
-| Repositorio GitHub    | (enlace)[https://github.com/cirocarrillo01/Banco-de-colombia.git]                   |
-| Notebook Google Colab | (enlace)[https://colab.research.google.com/drive/1HWLsxN3nu6p0lcWNQWgb9N4CzHEd3wu9] |
+| Repositorio GitHub    | [enlace](https://github.com/cirocarrillo01/Banco-de-colombia.git)                   |
+| Notebook Google Colab | [enlace](https://colab.research.google.com/drive/1HWLsxN3nu6p0lcWNQWgb9N4CzHEd3wu9) |
 | Documento académico   | `docs/Carrillo_Ciro_EA2_M3.docx`                                                    |
-| You tube              | (enlace)[https://youtu.be/b-YGRw96Zes?si=goGxZ1zEy7nqpEk0]                          |
+| You tube              | [enlace](https://youtu.be/b-YGRw96Zes?si=goGxZ1zEy7nqpEk0)                          |
 
 ## 👨‍🎓 10. Autor
 
